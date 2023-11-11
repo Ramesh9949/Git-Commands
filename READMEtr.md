@@ -16,7 +16,7 @@ _Sık kullanılan Git komutları listesi_
 
 *Çeviride önemli İngilizce kelimelerinin aslı korunmuş olup, "repository" kelimesi "repo" olarak, "local" kelimesi "yerel" olarak, "remote" kelimesi "uzak" olarak çevrilmiştir. Bunları göz önünde bulundurarak dokümandan istifade edebilirsiniz."
 
---
+------
 
 ### Proje Alma ve Oluşturma
 
